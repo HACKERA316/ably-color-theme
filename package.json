@@ -1,0 +1,21 @@
+{
+    "name": "ably-color-theme",
+    "displayName": "ably-color-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ablyZ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ablyZ-color-theme.json"
+            }
+        ]
+    }
+}
