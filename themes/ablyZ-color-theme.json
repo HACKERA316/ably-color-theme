@@ -1,10 +1,10 @@
 {
-	"name": "ablyZ",
+	"name": "ablyZ dark theme 1",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#333435b9",
-		"editor.foreground": "#cacaca7c",
-		"activityBarBadge.background": "#00cca0b2",
+		"editor.background": "#5f5f5f27",
+		"editor.foreground": "#a39696dc",
+		"activityBarBadge.background": "#11cc00b2",
 		"sideBarTitle.foreground": "#0bd8ce"
 	},
 	"tokenColors": [
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#00ccffc7"
+				"foreground": "#07c5f546"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#1458e925"
+				"foreground": "#cde914"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#0c7feb8e"
+				"foreground": "#0c7febbd"
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#5984e2d2"
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#23c265"
 			}
 		},
 		{
